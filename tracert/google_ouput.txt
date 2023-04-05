@@ -1,0 +1,14 @@
+
+Tracing route to www.google.com [142.251.211.228]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  modem [192.168.0.1] 
+  2     3 ms     2 ms     2 ms  tukw-dsl-gw70.tukw.qwest.net [63.231.10.70] 
+  3     3 ms     2 ms     2 ms  63-226-198-41.tukw.qwest.net [63.226.198.41] 
+  4     *        *        *     Request timed out.
+  5     3 ms     3 ms     3 ms  142.250.167.78 
+  6    31 ms     4 ms     5 ms  142.251.70.99 
+  7     2 ms     2 ms     3 ms  216.239.43.121 
+  8     3 ms     3 ms     3 ms  sea30s13-in-f4.1e100.net [142.251.211.228] 
+
+Trace complete.

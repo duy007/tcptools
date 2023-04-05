@@ -1,0 +1,11 @@
+Pinging d3ag4hukkh62yn.cloudfront.net [18.172.169.208] with 32 bytes of data:
+Reply from 18.172.169.208: bytes=32 time=4ms TTL=250
+Reply from 18.172.169.208: bytes=32 time=3ms TTL=250
+Reply from 18.172.169.208: bytes=32 time=3ms TTL=250
+Reply from 18.172.169.208: bytes=32 time=2ms TTL=250
+Reply from 18.172.169.208: bytes=32 time=3ms TTL=250
+
+Ping statistics for 18.172.169.208:
+    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 4ms, Average = 3ms

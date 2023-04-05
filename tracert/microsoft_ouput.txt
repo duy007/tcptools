@@ -1,0 +1,14 @@
+
+Tracing route to e13678.dscb.akamaiedge.net [104.71.133.251]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  modem [192.168.0.1] 
+  2     3 ms     3 ms     3 ms  tukw-dsl-gw70.tukw.qwest.net [63.231.10.70] 
+  3     2 ms     2 ms     2 ms  63-226-198-41.tukw.qwest.net [63.226.198.41] 
+  4     *        *        *     Request timed out.
+  5    13 ms    10 ms    14 ms  4.69.219.210 
+  6     4 ms     3 ms     3 ms  4.53.158.126 
+  7     8 ms     7 ms    11 ms  ae3.digfort-sea6.netarch.akamai.com [23.203.145.243] 
+  8     8 ms     2 ms     2 ms  a104-71-133-251.deploy.static.akamaitechnologies.com [104.71.133.251] 
+
+Trace complete.
